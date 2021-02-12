@@ -3,7 +3,8 @@
 Plataforma voto electrónico educativa
 =====================================
 
-FORK DE JOSÉ RODRIGUEZ ADAME
+FORK DE JOSÉ RODRIGUEZ ADAME. Cambio en ramapurueba para pull-req
+
 El objetivo de este proyecto es implementar una plataforma de voto
 electrónico seguro, que cumpla una serie de garantías básicas, como la
 anonimicidad y el secreto del voto.
